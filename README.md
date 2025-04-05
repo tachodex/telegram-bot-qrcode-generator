@@ -1,6 +1,6 @@
 # QR Code Telegram Bot 🤖 [Open Source]
 
-A simple, open-source bot that generates QR codes from text/links you send it.
+A Telegram bot that generates QR codes from text/links. Features usage tracking, admin controls, and simple setup. Built with Python and Pyrogram. Open-source and easy to contribute to!
 
 ## 🚀 How to Use
 
